@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 3, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on my Technoobys project. Built out a footer for the website and added the functionality to only get posts that have been published
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I think it went well. I still have a ton of work to do on this website. My next focus is to begin building a home/landing page that is more appealing and describes better what technoobys is about.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work: [Technoobys](http://www.technoobys.com)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
